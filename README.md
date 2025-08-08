@@ -7,18 +7,18 @@ How to use:
 - The structure will identify the cat vs dog class based on the folder structure:
 dataset/
 ├── train/
-│ ├── dog/
-│ │ ├── dog1.png
-│ │ └── ...
-│ └── cat/
-│ ├── cat1.png
-│ └── ...
+│   ├── dog/
+│   │   ├── dog1.png
+│   │   └── ...
+│   └── cat/
+│       ├── cat1.png
+│       └── ...
 └── test/
-├── dog/
-│ ├── dog1.png
-│ └── ...
-└── cat/
-├── cat1.png
-└── ...
-  
+    ├── dog/
+    │   ├── dog1.png
+    │   └── ...
+    └── cat/
+        ├── cat1.png
+        └── ...
+
 - Adjust the path correctly when using
