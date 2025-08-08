@@ -22,6 +22,6 @@ dataset/
     └── cat/
         ├── cat1.png
         └── ...
-
+```text
 
 - Adjust the path correctly when using
