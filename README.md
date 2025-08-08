@@ -6,6 +6,7 @@ How to use:
 
 - The structure will identify the cat vs dog class based on the folder structure:
 dataset/
+
 ├── train/
 │   ├── dog/
 │   │   ├── dog1.png
