@@ -1,7 +1,7 @@
 # CNN model for cat and dog classification
 Design and Implementation of a CNN model to classify cat vs dog images
 
-How to use:
+## How to use:
 - The project was run on Google Colab. It is highly advised to upload and run the Jupyter Notebook files on Google Colab
 
 - The structure will identify the cat vs dog class based on the folder structure:
@@ -25,3 +25,6 @@ dataset/
 ```
 
 - Adjust the path correctly when using
+
+## Data Preparation:
+- Suggesting search for any dog/cat dataset. Remember to structure the dataset folder correctly. The class name will be based on the name of the folder in ```train/```
